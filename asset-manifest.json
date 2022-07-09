@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/my-app/currency_rate_fun_progect/static/css/main.2ae1767f.css",
-    "main.js": "/my-app/currency_rate_fun_progect/static/js/main.831f6006.js",
-    "index.html": "/my-app/currency_rate_fun_progect/index.html",
-    "main.2ae1767f.css.map": "/my-app/currency_rate_fun_progect/static/css/main.2ae1767f.css.map",
-    "main.831f6006.js.map": "/my-app/currency_rate_fun_progect/static/js/main.831f6006.js.map"
+    "main.css": "/currency_rate_fun_progect/static/css/main.2ae1767f.css",
+    "main.js": "/currency_rate_fun_progect/static/js/main.831f6006.js",
+    "index.html": "/currency_rate_fun_progect/index.html",
+    "main.2ae1767f.css.map": "/currency_rate_fun_progect/static/css/main.2ae1767f.css.map",
+    "main.831f6006.js.map": "/currency_rate_fun_progect/static/js/main.831f6006.js.map"
   },
   "entrypoints": [
     "static/css/main.2ae1767f.css",
