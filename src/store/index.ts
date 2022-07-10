@@ -1,11 +1,11 @@
 import { configureStore, createAction, createReducer } from "@reduxjs/toolkit";
-import { CurrencyRateStateType, Eur } from "../react-app-env";
+import { CurrencyRateStateType } from "../react-app-env";
 
 const currencyRateState: CurrencyRateStateType = {
     date: '',
-    uah: 1,
-    usd: 1,
-    eur: 1,
+    uah: 0,
+    usd: 0,
+    eur: 0,
 };
 
 export const setCurrencyRateAction = createAction<CurrencyRateStateType>('SET_CURRENCY');
